@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Sterling Silver Bracelet",
+    "slug": "sterling-silver-bracelet",
+    "price": 120,
+    "category": "jewelries",
+    "subcategory": "Bracelets",
+    "description": "Elegant sterling silver bracelet with a polished finish.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1723361656145-b481be3f9e05?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1635515418401-02d652590520?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 50,
+    "sizes": ["S", "M", "L"],
+    "colors": ["Silver"],
+    "tags": ["bracelet", "silver", "jewelry"],
+    "discount": 12,
+    "features": ["925 silver", "adjustable clasp"],
+    "specs": ["Length: 7 inches", "Weight: 15g"]
+  },
+  {
+    "name": "Diamond Stud Earrings",
+    "slug": "diamond-stud-earrings",
+    "price": 349,
+    "category": "jewelries",
+    "subcategory": "Earrings",
+    "description": "Timeless diamond stud earrings in platinum setting.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1714700513036-558227ceabc4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 40,
+    "sizes": ["Single"],
+    "colors": ["Platinum", "Clear"],
+    "tags": ["earrings", "diamond", "luxury"],
+    "discount": 25,
+    "features": ["0.5ct diamonds", "hypoallergenic posts"],
+    "specs": ["Carat: 0.5", "Setting: Platinum"]
+  },
+  {
+    "name": "Men’s Running Sneakers",
+    "slug": "mens-running-sneakers",
+    "price": 89,
+    "category": "shoes",
+    "subcategory": "Sneakers",
+    "description": "Comfortable running sneakers designed for performance.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1579362094446-3db5b312f2ca?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1575898311518-70ae300d883d?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 65,
+    "isFeatured": true,
+    "sizes": ["40", "41", "42", "43", "44"],
+    "colors": ["Black", "White"],
+    "tags": ["sneakers", "running", "menswear"],
+    "discount": 15,
+    "features": ["breathable mesh", "shock absorbent sole"],
+    "specs": ["Material: Mesh & Rubber", "Weight: 300g"]
+  },
+  {
+    "name": "Women’s Leather Boots",
+    "slug": "womens-leather-boots",
+    "price": 129,
+    "category": "shoes",
+    "subcategory": "Boots",
+    "description": "Stylish leather boots perfect for fall fashion.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1582049864843-b80ae123e9a0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 30,
+    "sizes": ["38", "39", "40", "41"],
+    "colors": ["Brown", "Tan"],
+    "tags": ["boots", "leather", "women"],
+    "discount": 18,
+    "features": ["real leather", "non-slip sole"],
+    "specs": ["Heel Height: 2in", "Material: Genuine leather"]
+  },
+  {
+    "name": "Classic Tote Bag",
+    "slug": "classic-tote-bag",
+    "price": 99,
+    "category": "handbags",
+    "subcategory": "Tote Bags",
+    "description": "Roomy and stylish tote bag for everyday use.",
+    "imageUrl": [
+      "https://plus.unsplash.com/premium_photo-1679483562579-023de24ab10f?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 48,
+    "sizes": ["Single"],
+    "colors": ["Black", "Beige"],
+    "tags": ["tote", "bag", "handbag"],
+    "discount": 10,
+    "features": ["zip closure", "double strap"],
+    "specs": ["Material: Faux leather", "Dimensions: 14x12in"]
+  },
+  {
+    "name": "Mini Crossbody Purse",
+    "slug": "mini-crossbody-purse",
+    "price": 75,
+    "category": "handbags",
+    "subcategory": "Purses",
+    "description": "Compact purse with crossbody strap for mobility.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1652370737091-7cafd1624f4e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 35,
+    "sizes": ["Single"],
+    "colors": ["Pink", "Cream"],
+    "tags": ["purse", "crossbody", "fashion"],
+    "discount": 20,
+    "features": ["adjustable strap", "magnetic flap"],
+    "specs": ["Material: PU leather", "Length: 8in"]
+  },
+  {
+    "name": "Stainless Steel Chronograph",
+    "slug": "stainless-steel-chronograph",
+    "price": 210,
+    "category": "watches",
+    "subcategory": "Male watches",
+    "description": "Precision chronograph watch with steel casing.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1700650109006-1741e917a6bf?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 42,
+    "sizes": ["Single"],
+    "colors": ["Silver"],
+    "tags": ["watch", "chronograph", "steel"],
+    "discount": 9,
+    "features": ["stopwatch function", "water-resistant"],
+    "specs": ["Dial: 45mm", "Material: Stainless steel"]
+  },
+  {
+    "name": "Rose Gold Analog Watch",
+    "slug": "rose-gold-analog-watch",
+    "price": 165,
+    "category": "watches",
+    "subcategory": "Female watches",
+    "description": "Feminine analog watch in rose gold finish.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1584091287122-ce4bb8a62207?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 37,
+    "sizes": ["Single"],
+    "colors": ["Rose Gold"],
+    "tags": ["watch", "analog", "female"],
+    "discount": 14,
+    "features": ["slim band", "scratch-resistant glass"],
+    "specs": ["Dial: 38mm", "Band: Leather"]
+  },
+  {
+    "name": "Aviator Sunglasses",
+    "slug": "aviator-sunglasses",
+    "price": 59,
+    "category": "sunglasses",
+    "subcategory": "Men’s Sunglasses",
+    "description": "Classic aviator sunglasses with tinted lenses and metallic frame.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1567473810954-507d59716c25?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 60,
+    "sizes": ["Single"],
+    "colors": ["Silver", "Black"],
+    "tags": ["aviator", "sunglasses", "men"],
+    "discount": 11,
+    "features": ["UV protection", "metal frame"],
+    "specs": ["Lens width: 58mm", "Frame material: Alloy"]
+  },
+  {
+    "name": "Retro Square Frames",
+    "slug": "retro-square-frames",
+    "price": 45,
+    "category": "sunglasses",
+    "subcategory": "Women’s Sunglasses",
+    "description": "Bold square frames with vintage charm and tinted lenses.",
+    "imageUrl": [
+      "https://plus.unsplash.com/premium_photo-1733749585385-f09c117dc87a?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 45,
+    "sizes": ["Single"],
+    "colors": ["Tortoise", "Brown"],
+    "tags": ["retro", "square", "sunglasses"],
+    "discount": 17,
+    "features": ["anti-glare lenses", "acrylic frame"],
+    "specs": ["Lens height: 48mm", "Temple length: 140mm"]
+  },
+  {
+    "name": "Self-Care Gift Box",
+    "slug": "self-care-gift-box",
+    "price": 72,
+    "category": "gift-packages",
+    "subcategory": "Wellness Packs",
+    "description": "Pampering essentials for personal care and relaxation.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1571510028795-ed27f9b4fa4b?q=80&w=1351&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 25,
+    "sizes": ["Single"],
+    "colors": ["Assorted"],
+    "tags": ["gift", "self-care", "hamper"],
+    "discount": 22,
+    "features": ["aromatherapy set", "bath soak"],
+    "specs": ["Includes: candles, salts, creams", "Packaging: recyclable box"]
+  },
+  {
+    "name": "Celebration Hamper Pack",
+    "slug": "celebration-hamper-pack",
+    "price": 110,
+    "category": "gift-packages",
+    "subcategory": "Occasion Hampers",
+    "description": "Festive hamper filled with treats and cheerful goodies.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1667869285880-4097f8b153d6?q=80&w=763&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 20,
+    "sizes": ["Single"],
+    "colors": ["Multicolor"],
+    "tags": ["celebration", "gift", "hamper"],
+    "discount": 19,
+    "features": ["gourmet snacks", "event-ready"],
+    "specs": ["Weight: 3kg", "Contents: sweets, drinkware, cards"]
+  },
+  {
+    "name": "Men’s Slim Fit Blazer",
+    "slug": "mens-slim-fit-blazer",
+    "price": 155,
+    "category": "fashion",
+    "subcategory": "Men’s Wear",
+    "description": "Tailored slim-fit blazer ideal for formal occasions.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1630173250799-2813d34ed14b?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 32,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Navy", "Gray"],
+    "tags": ["blazer", "slim-fit", "menswear"],
+    "discount": 13,
+    "features": ["inner pocket", "stretch material"],
+    "specs": ["Fabric: Poly-viscose", "Lining: Satin"]
+  },
+  {
+    "name": "Women’s Satin Wrap Dress",
+    "slug": "womens-satin-wrap-dress",
+    "price": 129,
+    "category": "fashion",
+    "subcategory": "Women’s Wear",
+    "description": "Elegant satin wrap dress with flattering silhouette.",
+    "imageUrl": [
+      "https://plus.unsplash.com/premium_photo-1678478656895-ff82821b1c8e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 28,
+    "sizes": ["S", "M", "L"],
+    "colors": ["Red", "Champagne"],
+    "tags": ["wrap", "dress", "satin"],
+    "discount": 16,
+    "features": ["adjustable waist tie", "lightweight fabric"],
+    "specs": ["Material: Satin", "Length: Knee"]
+  },
+  {
+    "name": "Toddler Playwear Set",
+    "slug": "toddler-playwear-set",
+    "price": 39,
+    "category": "kids",
+    "subcategory": "Toddler Clothing",
+    "description": "Fun and cozy outfit set for active toddlers.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1662191368293-3cfcbf9dcb80?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 40,
+    "sizes": ["1T", "2T", "3T"],
+    "colors": ["Blue", "Yellow"],
+    "tags": ["toddler", "playwear", "kids"],
+    "discount": 20,
+    "features": ["soft cotton", "elastic waistband"],
+    "specs": ["Set includes: top and pants", "Material: 100% cotton"]
+  },
+  {
+    "name": "Boys’ Sneakers",
+    "slug": "boys-sneakers",
+    "price": 55,
+    "category": "kids",
+    "subcategory": "Foot Wear",
+    "description": "Durable and trendy sneakers for boys.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1744812441673-df2f1ce89854?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 50,
+    "sizes": ["28", "29", "30", "31"],
+    "colors": ["Black", "Red"],
+    "tags": ["kids", "sneakers", "boys"],
+    "discount": 15,
+    "features": ["grip sole", "velcro closure"],
+    "specs": ["Material: canvas & rubber", "Closure: Velcro"]
+  },
+
+  {
+    "name": "Polished Silver Chain",
+    "slug": "polished-silver-chain",
+    "price": 135,
+    "category": "jewelries",
+    "subcategory": "Bracelets",
+    "description": "Sleek silver chain bracelet crafted for everyday elegance.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1636517524632-fd2408bf014c?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1623040593898-f45f28ab8da9?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 42,
+    "sizes": ["S", "M", "L"],
+    "colors": ["Silver"],
+    "tags": ["bracelet", "silver", "chain"],
+    "discount": 10,
+    "isFeatured": true,
+    "features": ["polished finish", "secure clasp"],
+    "specs": ["Length: 6.5 inches", "Weight: 13g"]
+  },
+  {
+    "name": "White Gold Drop Earrings",
+    "slug": "white-gold-drop-earrings",
+    "price": 399,
+    "category": "jewelries",
+    "subcategory": "Earrings",
+    "description": "Delicate drop earrings in white gold with clear stones.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1605035184674-1ee3fa430b7e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1633555230636-128f8e13c157?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 38,
+    "sizes": ["Single"],
+    "colors": ["White Gold", "Clear"],
+    "tags": ["earrings", "white gold", "luxury"],
+    "discount": 22,
+    "isFeatured": true,
+    "features": ["1ct cubic zirconia", "white gold posts"],
+    "specs": ["Length: 1in", "Stone: CZ"]
+  },
+  {
+    "name": "Performance Trail Runners",
+    "slug": "performance-trail-runners",
+    "price": 95,
+    "category": "shoes",
+    "subcategory": "Sneakers",
+    "description": "Trail-ready sneakers for runners who crave comfort and grip.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1596052747474-0190139f0c5b?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1456613820599-bfe244172af5?q=80&w=2348&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 70,
+    "sizes": ["40", "41", "42", "43", "44"],
+    "colors": ["Gray", "Black"],
+    "tags": ["trail", "runners", "shoes"],
+    "discount": 17,
+    "isFeatured": true,
+    "features": ["grip outsole", "flex mesh upper"],
+    "specs": ["Material: Mesh & EVA", "Weight: 290g"]
+  },
+  {
+    "name": "Vintage Leather Ankle Boots",
+    "slug": "vintage-leather-ankle-boots",
+    "price": 145,
+    "category": "shoes",
+    "subcategory": "Boots",
+    "description": "Classic ankle boots with vintage leather texture.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1581803274668-261faa12dca7?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1534233650908-b471f2350922?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 28,
+    "sizes": ["38", "39", "40", "41"],
+    "colors": ["Dark Brown", "Caramel"],
+    "tags": ["boots", "leather", "ankle"],
+    "discount": 20,
+    "isFeatured": true,
+    "features": ["side zipper", "cushioned insole"],
+    "specs": ["Heel: 1.8in", "Material: Top-grain leather"]
+  },
+  {
+    "name": "Premium Canvas Shopper",
+    "slug": "premium-canvas-shopper",
+    "price": 105,
+    "category": "handbags",
+    "subcategory": "Tote Bags",
+    "description": "Durable canvas tote for daily commutes and casual outings.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540495035339-65ce9cf43869?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 50,
+    "sizes": ["Single"],
+    "colors": ["Beige", "Olive"],
+    "tags": ["canvas", "tote", "bag"],
+    "discount": 12,
+    "isFeatured": true,
+    "features": ["zippered pocket", "reinforced straps"],
+    "specs": ["Material: Heavy canvas", "Dimensions: 15x13in"]
+  },
+  {
+    "name": "Compact Sling Pouch",
+    "slug": "compact-sling-pouch",
+    "price": 82,
+    "category": "handbags",
+    "subcategory": "Purses",
+    "description": "Everyday sling pouch with minimalist charm.",
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1604176424472-17cd740f74e9?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "stock": 36,
+    "sizes": ["Single"],
+    "isFeatured": true,
+    "colors": ["Lilac", "Cream"],
+    "tags": ["sling", "pouch", "fashion"],
+    "discount": 18,
+    "features": ["snap button", "adjustable strap"],
+    "specs": ["Material: Vegan leather", "Length: 9in"]
+  }
+]
